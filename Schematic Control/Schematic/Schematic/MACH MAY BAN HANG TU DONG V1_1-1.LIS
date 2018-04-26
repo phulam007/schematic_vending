@@ -1,0 +1,305 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_16.0\TOOLS\LAYOUT_ENG_ED\DATA\_DEFAULT.TCH
+FILE-B: D:\SCTV\HE THONG VIET\MACH\MAY BAN HANG KHONG ANDROID\SCHEMATIC MAY BAN HANG TU DONG V1.1\SCHEMATIC\MACH MAY BAN HANG TU DONG V1_1.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint RAD/CK05
+Adding footprint AX/RC05
+Adding package PHONEJACK_STEREO_1
+Adding package C
+Adding package JUMPER
+Adding package CON12A
+Adding package R
+Adding package DIODE
+Adding package LED
+Adding package CON10AP_7
+Adding package CRYSTAL
+Adding package G:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package CON6A
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\IEC\DEVICE.OLB/C
+Adding package SIM_CARD_0
+Adding package F:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package CON7_0
+Adding package CON10AP_12
+Adding package SW_PUSHBUTTON
+Adding package DIODE_SCHOTTKY_0
+Adding package CON4
+Adding package CAP_NP
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/C
+Adding package 74HC245_1
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package HEADER_2_0
+Adding package BATTERY
+Adding package F:\PROGRA~1\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/R
+Adding package CON20A
+Adding package PIC17C752/FP_5
+Adding package CONNECTOR_SIM300CZ_0
+Adding package 7805_0
+Adding package 74LS47_6
+Adding package CON16A
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/LED
+Adding package Q2SC1815
+Adding package AT24C256_0
+Adding package INDUCTOR
+Adding package MIC29152ADJ/TO263_0
+Adding package CON5
+Adding package PHONEJACK_STEREO_0
+Adding package CON5_0
+Adding package 74HC573_3
+Adding package CON8A
+Adding package CAP
+Adding package ATMEGA8_0
+Adding package LM2575
+Adding package CON8
+Adding package 55454/LCC_0
+Adding package CON4_0
+Adding package C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB/CRYSTAL
+Adding component J5
+ERROR: No footprint found for comp J5
+Adding component C7
+Adding component J3
+ERROR: No footprint found for comp J3
+Adding component MOTOR_SELECT
+ERROR: No footprint found for comp MOTOR_SELECT
+Adding component R9
+Adding component D21
+Found footprint 1N4007-DAN from PRT file for part DIODE, comp D21
+Adding component LED-5V
+Found library footprint with same name as part LED
+Adding component ISP-PROG
+Found footprint HEADER 5X2 from PRT file for part CON10AP_7, comp ISP-PROG
+Adding component R20
+Adding component Y1
+Found library footprint with same name as part CRYSTAL
+Adding component R33
+Found footprint R-SMD from PRT file for part R, comp R33
+Adding component KEYBOARD_OPEN
+ERROR: No footprint found for comp KEYBOARD_OPEN
+Adding component R23
+Adding component C6
+Adding component C27
+Found footprint C-SMD from PRT file for part C, comp C27
+Adding component R11
+Adding component R34
+Adding component R26
+Adding component C9
+Adding component S3
+ERROR: No footprint found for comp S3
+Adding component R1
+Adding component RF INTERFACE
+Found footprint APC200A-RF from PRT file for part CON7_0, comp RF INTERFACE
+Adding component LED3
+ERROR: No footprint found for comp LED3
+Adding component R35
+Adding component SW4
+Found footprint BUTTON2_200*200MIL from PRT file for part SW_PUSHBUTTON, comp SW4
+Adding component 1N5822
+ERROR: No footprint found for comp 1N5822
+Adding component C11
+Adding component MP3 CONNECT
+Found library footprint with same name as part CON4
+Adding component R2
+Adding component C3
+Adding component R14
+Adding component C13
+Adding component C12
+Adding component C26
+Adding component U14
+ERROR: No footprint found for comp U14
+Adding component R12
+Adding component SW3
+Adding component C18
+Adding component R8
+Adding component POWER 24V
+Found footprint CON2-NGUON from PRT file for part HEADER_2_0, comp POWER 24V
+Adding component J4
+Found footprint HDR2X1_L from PRT file for part JUMPER, comp J4
+Adding component BT1
+Found footprint DE PIN 3V from PRT file for part BATTERY, comp BT1
+Adding component R21
+Adding component C16
+Adding component R27
+Adding component C20
+Adding component OUTPUT
+Found footprint HEADER 10X2 from PRT file for part CON20A, comp OUTPUT
+Adding component R7
+Adding component U2
+Found footprint HEADER 50X2 from PRT file for part PIC17C752/FP_5, comp U2
+Adding component U13
+Found footprint SIM548 GSM/GPRS from PRT file for part CONNECTOR_SIM300CZ_0, comp U13
+Adding component D13
+Adding component R36
+Adding component ANALOG IN
+Adding component C14
+Adding component C22
+Adding component R3
+Adding component AMS1117
+Found footprint AMS1117-3.3V from PRT file for part 7805_0, comp AMS1117
+Adding component C31
+Adding component C24
+Adding component C10
+Adding component R28
+Adding component C17
+Adding component BCD-7SEG0
+Found footprint IC 16P from PRT file for part 74LS47_6, comp BCD-7SEG0
+Adding component HEADER MP3
+Adding component C19
+Adding component R6
+Adding component CONTROL_MOTOR
+Found footprint HEADER 8X2 from PRT file for part CON16A, comp CONTROL_MOTOR
+Adding component D11
+Adding component Q1
+ERROR: No footprint found for comp Q1
+Adding component U1
+Found footprint AT24CXX from PRT file for part AT24C256_0, comp U1
+Adding component R13
+Adding component L2
+Found footprint L-CUON DAY from PRT file for part INDUCTOR, comp L2
+Adding component C21
+Adding component R4
+Adding component VBAT-IC
+Found footprint MIC29031 from PRT file for part MIC29152ADJ/TO263_0, comp VBAT-IC
+Adding component J2
+Found footprint HDR5X1_C from PRT file for part CON5, comp J2
+Adding component R19
+Adding component C34
+Adding component C1
+Adding component J1
+Found footprint AUDIO_SMD from PRT file for part PHONEJACK_STEREO_0, comp J1
+Adding component D12
+Adding component C23
+Adding component R5
+Adding component C30
+Adding component C8
+Adding component RFID
+Found footprint HEADER 5-1 from PRT file for part CON5_0, comp RFID
+Adding component C25
+Adding component C15
+Adding component C28
+Adding component C4
+Adding component R22
+Adding component R29
+Adding component C2
+Adding component MICROSD
+Found footprint MICRO SD from PRT file for part 74HC573_3, comp MICROSD
+Adding component R16
+Adding component MP3_SELECT
+Found footprint HEADER 4X2 from PRT file for part CON8A, comp MP3_SELECT
+Adding component C29
+Found footprint C 10UF SMD from PRT file for part CAP, comp C29
+Adding component USB-SREIAL
+Found footprint PL2303 from PRT file for part ATMEGA8_0, comp USB-SREIAL
+Adding component C5
+Adding component C32
+Adding component R30
+Adding component R17
+Adding component C33
+Adding component LM2576
+Found library footprint with same name as part LM2575
+Adding component R31
+Adding component R24
+Adding component R15
+Adding component KEYBOARD
+Found library footprint with same name as part CON8
+Adding component USB_CONNECT
+Found footprint USB-SMD NHO from PRT file for part 55454/LCC_0, comp USB_CONNECT
+Adding component R25
+Adding component R18
+Adding component BLUETOOTH
+Found footprint HEADER 4-1 from PRT file for part CON4_0, comp BLUETOOTH
+Adding component Y2
+Adding component R10
+Adding component GLCD_CONNECT
+Adding component R32
+Adding component D15
+*EOF*
+ECO cancelled by user
+et N3205937
+Adding net B
+Adding net DTMF_Q2
+Adding net N4066134
+Adding net DTMF_Q3
+Adding net DTMF_Q4
+Adding net DTMF_Q1
+Adding net DTMF_IN
+Adding net GND4
+Adding net OUT3
+Adding net OUT5
+Adding net OUT0
+Adding net OUT7
+Adding net OUT2
+Adding net OUT11
+Adding net OUT12
+Adding net OUT10
+Adding net OUT9
+Adding net OUT8
+Adding net N4110231
+Adding net OUT1
+Adding net OUT6
+Adding net OUT4
+Adding net MUX_IN
+Adding net A5
+Adding net A3
+Adding net A1
+Adding net SIM_RST
+Adding net EN_24V
+Adding net A4
+Adding net A2
+Adding net A0
+Adding net SIM_CLK
+Adding net STATUS
+Adding net GSM_RXD
+Adding net GSM_TXD
+Adding net WRST
+Adding net MMC_CS
+Adding net RST
+Adding net KEY_ROW1
+Adding net KEY_COL1
+Adding net KEY_COL3
+Adding net KEY_ROW3
+Adding net KEY_ROW2
+Adding net KEY_COL0
+Adding net KEY_COL2
+Adding net KEY_ROW0
+Adding net I2C_SCL
+Adding net RXD1
+Adding net RCK_595
+Adding net SCK_595
+Adding net TXD1
+Adding net I2C_SDA
+Adding net SDI_595
+Adding net MP3_OUT
+Adding net MP3_IN
+Adding net N3144046
+Adding net MOTOR_IN
+Adding net MOTOR_OUT
+Adding net RFID_I/O
+Adding net RFID_TXD
+Adding net RFID_RXD
+Adding net DTMF_DETECT
+Adding net PWRKEY
+Adding net SIM_VDD
+Adding net NETLIGHT
+Adding net VRTC
+Adding net SIM_DATA
+Adding net 3.3V_USB
+Adding net N4014012
+Adding net N4014704
+Adding net VCC
+Adding net GND2
+Adding net GND3
+Adding net N3223393
+Adding net GND1
+Adding net VCC1
+Adding net N3223409
+Adding net VCC3
+Adding net N3223673
+Adding net N3223347
+Adding net VCC2
+Adding net N3223665
+Adding net N4021191
+Adding net N3223657
+Adding net N3223885
+Adding net GND_BL
+Deleting net DEFAULT
+*EOF*
+No errors found

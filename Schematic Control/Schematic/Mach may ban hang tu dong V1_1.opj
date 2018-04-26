@@ -1,0 +1,38 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\mach may ban hang tu dong v1_1.dbk"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\mach may ban hang tu dong v1_1.dbk")
+      (Path "Design Resources" ".\mach may ban hang tu dong v1_1.dbk"
+         "SCHEMATIC1")
+      (Select "Design Resources" ".\mach may ban hang tu dong v1_1.dbk"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -5 -25 0 200 0 431"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -5 -25 46 1119 46 507")
+        (Scroll "704 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "D:\FILE CTY\SCHEMATIC\SCHEMATIC TU NUOC\SCHEMATIC CONTROL\SCHEMATIC\MACH MAY BAN HANG TU DONG V1_1.DBK")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

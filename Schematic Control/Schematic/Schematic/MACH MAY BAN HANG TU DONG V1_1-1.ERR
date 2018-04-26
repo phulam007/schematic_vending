@@ -1,0 +1,13 @@
+AutoECO Error Report
+FILE-A: C:\ORCAD\ORCAD_16.0\TOOLS\LAYOUT_ENG_ED\DATA\_DEFAULT.TCH
+FILE-B: D:\SCTV\HE THONG VIET\MACH\MAY BAN HANG KHONG ANDROID\SCHEMATIC MAY BAN HANG TU DONG V1.1\SCHEMATIC\MACH MAY BAN HANG TU DONG V1_1.MNL
+ERROR: No footprint found for comp J5
+ERROR: No footprint found for comp J3
+ERROR: No footprint found for comp MOTOR_SELECT
+ERROR: No footprint found for comp KEYBOARD_OPEN
+ERROR: No footprint found for comp S3
+ERROR: No footprint found for comp LED3
+ERROR: No footprint found for comp 1N5822
+ERROR: No footprint found for comp U14
+ERROR: No footprint found for comp Q1
+ECO cancelled by user

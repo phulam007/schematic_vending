@@ -1,0 +1,119 @@
+(ExpressProject "Mach may ban hang tu dong V1_1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\mach may ban hang tu dong v1_1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "MACH MAY BAN HANG TU DONG V1_1.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\SCHEMATIC TU NUOC\SCHEMATIC CONTROL\SCHEMATIC\MACH MAY BAN HANG TU DONG V1_1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_Header "Item\tQuantity\tReference\tPart")
+    (BOM_Include_File
+       "D:\SCHEMATIC TU NUOC\SCHEMATIC CONTROL\SCHEMATIC\MACH MAY BAN HANG TU DONG V1_1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "TRUE")
+    (BOM_View_Output "FALSE"))
+  (Folder "Outputs"
+    (File ".\mach may ban hang tu dong v1_1.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\mach may ban hang tu dong v1_1.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (hole
+      (FullPartName "hole.Normal")
+      (LibraryName "D:\SCTV\CLB\DEFAULT.OLB")
+      (DeviceIndex "0"))
+    ("PHONEJACK STEREO"
+      (FullPartName "PHONEJACK STEREO.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (JUMPER
+      (FullPartName "JUMPER.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CON20A
+      (FullPartName "CON20A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON6A
+      (FullPartName "CON6A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON8A
+      (FullPartName "CON8A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON12A
+      (FullPartName "CON12A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (MICROPHONE
+      (FullPartName "MICROPHONE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\ELECTROMECHANICAL.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL
+      (FullPartName "CRYSTAL.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (74HC245
+      (FullPartName "74HC245.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\BUSDRIVERTRANSCEIVER.OLB")
+      (DeviceIndex "0"))
+    (CON18A
+      (FullPartName "CON18A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON16A
+      (FullPartName "CON16A.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\ORCAD\ORCAD_16.0\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Outputs" ".\mach may ban hang tu dong v1_1.bom"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 0 606 -8 -30 3 300 -14 610"))
+      (Tab 0)))
+  (MPSSessionName "Son Viet")
+  (LastUsedLibraryBrowseDirectory "D:\SCTV\CLB"))
